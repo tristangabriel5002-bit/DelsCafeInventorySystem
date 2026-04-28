@@ -1,38 +1,34 @@
-# ☕ Del's Cafe Inventory System
+Del's Cafe Inventory System
 
-## 📌 Overview
+📌 Overview
 Del's Cafe Inventory System is a console-based application developed in C that helps manage cafe products, stock levels, and customer orders. 
 
 The system allows users to add, update, delete, search, and sort inventory items, as well as process customer orders and track transaction history. It is designed to demonstrate the practical application of Data Structures and Algorithms (DSA) in a real-world scenario.
 
----
-
-## 🎯 Purpose
+📌Purpose
 The main goal of this project is to apply fundamental Data Structures and Algorithms concepts learned in CC104 to build a functional and efficient inventory management system.
 
----
+📌Data Structures Used
 
-## 🧠 Data Structures Used
-
-### 1. Array
+**1. Array**
 - Used to store the list of products in the inventory
 - Allows fast access using index
 
-### 2. Linked List
+**2. Linked List**
 - Used to store transaction history
 - Supports dynamic memory allocation
 
-### 3. Stack
+**3. Stack**
 - Used for undo functionality
 - Follows LIFO (Last In, First Out)
 
-### 4. Queue
+** 4. Queue**
 - Used to manage customer orders
 - Follows FIFO (First In, First Out)
 
 ---
 
-## ⚙️ Algorithms Used
+##  Algorithms Used
 
 ### 1. Linear Search
 - Used to find products by ID
@@ -47,7 +43,7 @@ The main goal of this project is to apply fundamental Data Structures and Algori
 
 ---
 
-## 🚀 Features
+##  Features
 - Add new products
 - View all products
 - Update product details
@@ -61,7 +57,7 @@ The main goal of this project is to apply fundamental Data Structures and Algori
 
 ---
 
-## 💻 How to Compile and Run
+## How to Compile and Run
 
 ### Step 1: Install Compiler
 Install a C compiler such as:
